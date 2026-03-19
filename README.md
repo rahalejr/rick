@@ -1,2 +1,2 @@
 # rick
-The Retrieval of Invariant Causal Knowledge Model of Actual Cause Judgment
+The Retrieval of Invariant Causal Knowledge Model
